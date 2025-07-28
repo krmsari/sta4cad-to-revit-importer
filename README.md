@@ -1,4 +1,4 @@
-# 🚀 STA4CAD'den Revit'e Model Aktarım Projesi
+# 🏗️ STA4CAD'den Revit'e Model Aktarım Projesi
 
 Bu proje, STA4CAD'de oluşturulan yapısal modellerin `.ST4` formatından okunarak Revit ortamına otomatik olarak aktarılmasını sağlayan bir araçtır. Proje, birbiriyle entegre çalışan iki ana bileşenden oluşur:
 
