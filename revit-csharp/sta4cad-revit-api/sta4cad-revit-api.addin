@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <!-- GÜNCELLEME: Tam yol kaldırıldı. Revit, DLL'i bu .addin dosyasıyla aynı klasörde arayacak. -->
+    <Assembly>sta4cad-revit-api.dll</Assembly>
+    
+    <!-- Eklentiyi çalıştıracak olan sınıfın tam adı (namespace.sınıfadı) -->
+    <FullClassName>v01.ImportCommand</FullClassName>
+    
+    <!-- Her eklenti için benzersiz olması gereken bir kimlik. -->
+    <ClientId>3EBD7835-08A7-41EF-A9C6-D639BD3D749C</ClientId>
+    
+    <!-- Geliştirici veya şirket bilgisi -->
+    <VendorId>KeremSARI</VendorId>
+    <VendorDescription>KeremSarı</VendorDescription>
+    
+    <!-- Revit arayüzünde görünecek metinler -->
+    <Text>STA4CAD Modelini Aktar (KS)</Text>
+    <Description>Bir .ST4 dosyasından yapısal model verilerini okur ve Revit'e aktarır. -KEREM SARI</Description>
+  </AddIn>
+</RevitAddIns>

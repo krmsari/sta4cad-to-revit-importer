@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sta4cad-revit-api", "sta4cad-revit-api\sta4cad-revit-api.csproj", "{67508211-CC32-435B-A0B7-AC1C3C9CFC63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67508211-CC32-435B-A0B7-AC1C3C9CFC63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67508211-CC32-435B-A0B7-AC1C3C9CFC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67508211-CC32-435B-A0B7-AC1C3C9CFC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67508211-CC32-435B-A0B7-AC1C3C9CFC63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA229A7A-FD12-4589-A069-18D3C8BC179C}
+	EndGlobalSection
+EndGlobal

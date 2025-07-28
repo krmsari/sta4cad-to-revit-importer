@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keremsari\\source\\repos\\revit-sta4cad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67508211-CC32-435B-A0B7-AC1C3C9CFC63}|sta4cad-revit-api\\sta4cad-revit-api.csproj|C:\\Users\\keremsari\\source\\repos\\revit-sta4cad\\sta4cad-revit-api\\services\\revitmodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67508211-CC32-435B-A0B7-AC1C3C9CFC63}|sta4cad-revit-api\\sta4cad-revit-api.csproj|solutionrelative:sta4cad-revit-api\\services\\revitmodelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67508211-CC32-435B-A0B7-AC1C3C9CFC63}|sta4cad-revit-api\\sta4cad-revit-api.csproj|c:\\users\\keremsari\\source\\repos\\revit-sta4cad\\sta4cad-revit-api\\importcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67508211-CC32-435B-A0B7-AC1C3C9CFC63}|sta4cad-revit-api\\sta4cad-revit-api.csproj|solutionrelative:sta4cad-revit-api\\importcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67508211-CC32-435B-A0B7-AC1C3C9CFC63}|sta4cad-revit-api\\sta4cad-revit-api.csproj|C:\\Users\\keremsari\\source\\repos\\revit-sta4cad\\sta4cad-revit-api\\services\\sta4cadconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67508211-CC32-435B-A0B7-AC1C3C9CFC63}|sta4cad-revit-api\\sta4cad-revit-api.csproj|solutionrelative:sta4cad-revit-api\\services\\sta4cadconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67508211-CC32-435B-A0B7-AC1C3C9CFC63}|sta4cad-revit-api\\sta4cad-revit-api.csproj|C:\\Users\\keremsari\\source\\repos\\revit-sta4cad\\sta4cad-revit-api\\utils\\unitconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67508211-CC32-435B-A0B7-AC1C3C9CFC63}|sta4cad-revit-api\\sta4cad-revit-api.csproj|solutionrelative:sta4cad-revit-api\\utils\\unitconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67508211-CC32-435B-A0B7-AC1C3C9CFC63}|sta4cad-revit-api\\sta4cad-revit-api.csproj|C:\\Users\\keremsari\\source\\repos\\revit-sta4cad\\sta4cad-revit-api\\data\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67508211-CC32-435B-A0B7-AC1C3C9CFC63}|sta4cad-revit-api\\sta4cad-revit-api.csproj|solutionrelative:sta4cad-revit-api\\data\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LevelData.cs",
+              "DocumentMoniker": "C:\\Users\\keremsari\\source\\repos\\revit-sta4cad\\sta4cad-revit-api\\Data\\LevelData.cs",
+              "RelativeDocumentMoniker": "sta4cad-revit-api\\Data\\LevelData.cs",
+              "ToolTip": "C:\\Users\\keremsari\\source\\repos\\revit-sta4cad\\sta4cad-revit-api\\Data\\LevelData.cs",
+              "RelativeToolTip": "sta4cad-revit-api\\Data\\LevelData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:03:34.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitConverter.cs",
+              "DocumentMoniker": "C:\\Users\\keremsari\\source\\repos\\revit-sta4cad\\sta4cad-revit-api\\Utils\\UnitConverter.cs",
+              "RelativeDocumentMoniker": "sta4cad-revit-api\\Utils\\UnitConverter.cs",
+              "ToolTip": "C:\\Users\\keremsari\\source\\repos\\revit-sta4cad\\sta4cad-revit-api\\Utils\\UnitConverter.cs",
+              "RelativeToolTip": "sta4cad-revit-api\\Utils\\UnitConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:56:30.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sta4CadConverter.cs",
+              "DocumentMoniker": "C:\\Users\\keremsari\\source\\repos\\revit-sta4cad\\sta4cad-revit-api\\Services\\Sta4CadConverter.cs",
+              "RelativeDocumentMoniker": "sta4cad-revit-api\\Services\\Sta4CadConverter.cs",
+              "ToolTip": "C:\\Users\\keremsari\\source\\repos\\revit-sta4cad\\sta4cad-revit-api\\Services\\Sta4CadConverter.cs",
+              "RelativeToolTip": "sta4cad-revit-api\\Services\\Sta4CadConverter.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:56:26.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RevitModelBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\keremsari\\source\\repos\\revit-sta4cad\\sta4cad-revit-api\\Services\\RevitModelBuilder.cs",
+              "RelativeDocumentMoniker": "sta4cad-revit-api\\Services\\RevitModelBuilder.cs",
+              "ToolTip": "C:\\Users\\keremsari\\source\\repos\\revit-sta4cad\\sta4cad-revit-api\\Services\\RevitModelBuilder.cs",
+              "RelativeToolTip": "sta4cad-revit-api\\Services\\RevitModelBuilder.cs",
+              "ViewState": "AgIAAFABAAAAAAAAAAAkwHUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:53:44.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportCommand.cs",
+              "DocumentMoniker": "C:\\Users\\keremsari\\source\\repos\\revit-sta4cad\\sta4cad-revit-api\\ImportCommand.cs",
+              "RelativeDocumentMoniker": "sta4cad-revit-api\\ImportCommand.cs",
+              "ToolTip": "C:\\Users\\keremsari\\source\\repos\\revit-sta4cad\\sta4cad-revit-api\\ImportCommand.cs",
+              "RelativeToolTip": "sta4cad-revit-api\\ImportCommand.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T18:21:33.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
