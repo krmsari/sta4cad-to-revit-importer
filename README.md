@@ -1,5 +1,17 @@
 # 🏗️ STA4CAD'den Revit'e Model Aktarım Projesi
 
+Uygulamanın genel işleyişini gösteren tanıtım videosu ve STA4CAD model fotoğrafı aşağıdadır. 
+
+<div align="center">
+
+https://github.com/user-attachments/assets/4cc088d7-9101-4525-96e2-ea4deba36053
+
+<img src="https://github.com/user-attachments/assets/f966af4c-3d24-429f-bc2e-cb11f3cbd746" alt="Ana Ekran" width="610" height="480"  />
+
+</div>
+
+---
+
 Bu proje, STA4CAD'de oluşturulan yapısal modellerin `.ST4` formatından okunarak Revit ortamına otomatik olarak aktarılmasını sağlayan bir araçtır. Proje, birbiriyle entegre çalışan iki ana bileşenden oluşur:
 
 1.  **Java Backend Servisi:** `.ST4` dosyasını işleyerek okunurluğu olan standart bir JSON formatına dönüştürür.
