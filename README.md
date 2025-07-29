@@ -8,6 +8,8 @@ https://github.com/user-attachments/assets/4cc088d7-9101-4525-96e2-ea4deba36053
 
 <img src="https://github.com/user-attachments/assets/f966af4c-3d24-429f-bc2e-cb11f3cbd746" alt="Ana Ekran" width="610" height="480"  />
 
+<img src="https://github.com/user-attachments/assets/e55adb08-5017-4393-bc68-e6dc86ce649c" alt="Ana Ekran" width="610" height="480"  />
+
 </div>
 
 ---
